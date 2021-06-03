@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The heads of all the proceedings in both Houses of Parliament ... concerning the great affaires of the kingdom : with some remarkable passages concerning Judge Bartlet, Sir Iohn Hotham, and the recorder.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24064</idno><idno type="EEBO-CITATION">12540602</idno>
+  <idno type="VID">197815</idno>
+  <idno type="EEBO-PROQUEST">2240955984</idno>
+  
+            <idno type="STC">Wing H1283</idno>
+            <idno type="OCLC">12540602</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24064)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197815)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 260:E202, no 2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The heads of all the proceedings in both Houses of Parliament ... concerning the great affaires of the kingdom : with some remarkable passages concerning Judge Bartlet, Sir Iohn Hotham, and the recorder.</title>
+               </titleStmt>
+               <extent>1 v.   May 23-30, 1642.</extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Smith and A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library; UMI reels listed in chronological order of serial publication; scattered holdings listed.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Periodicals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197815:1"/>
+            <p>THE HEADS OF ALL THE PROCEEDINGS IN BOTH HOUSES OF PARLIAMENT, <hi>From the</hi> 23. <hi>of</hi> May <hi>to the</hi> 30. 1642.</p>
+            <p>Concerning the great affairs of the Kingdom.</p>
+            <p>WITH Some Remarkable Passages concerning Judge <hi>Bartlet,</hi> Sir <hi>Iohn Hotham,</hi> and the RECORDER.</p>
+            <p>
+               <figure>
+                  <figDesc>small woodcut of crowned English rose</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>small woodcut of crowned French fleur-de-lis</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>small woodcut of crowned Scottish thistle</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>small woodcut of crowned Celtic harp</figDesc>
+               </figure>
+            </p>
+            <p>LONDON, Printed for <hi>J. Smith,</hi> and <hi>A. Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:197815:2"/>
+            <pb facs="tcp:197815:2"/>
+            <head>THE HEADS OF THE Proceedings in PARLIAMENT, From the 23. of <hi>May,</hi> to the 30. 1642.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 23. of <hi>May</hi> in the morning, a Committee of both Houses met about the drawing up of an Answer to his Majesties Declaration touching the <hi>Militia,</hi> to prove by presidents and Statutes, the lawfulnesse of their Proceedings therin; but they concluded not thereon.</p>
+            <p>The 24. in the morning, upon the meeting of both Houses, Justice Berkley was brought to the Bar in the Lords House, and the Members of the House of Commons that were appointed to make good the charge against him, being seated in their place, the charge was read, and he exa<g ref="char:EOLhyphen"/>mined upon the first Article, touching his coun<g ref="char:EOLhyphen"/>sell and sollicitous care about the Ship-money,
+<pb facs="tcp:197815:3"/>in the defence whereof he made a long Speech of an hour and better, wherein he laid open the frailty of men, being daily easily drrwn by de<g ref="char:EOLhyphen"/>fect, and therein seemed to allay and mittigate the vigour of his Accusation, and being there, about two or three houres, it was thought fit that his further trial should be deferred till that day three weeks, being the 14. of <hi>Iune,</hi> and so was dismissed for that time.</p>
+            <p>After which, Letters were read in both Hou<g ref="char:EOLhyphen"/>ses which came from <hi>Ireland,</hi> importing that the Lord <hi>Conway</hi> with the aid of the Scottish forces had given a great overthrow to the Rebels with little losse of the Protestant side, which good newes did much affect both Houses.</p>
+            <p>Then the House of Commons took into con<g ref="char:EOLhyphen"/>sideration the disposall of the Lieutenants and Deputy-Lieutenants of the Kingdome, and there being some debate about the fidelity of some al<g ref="char:EOLhyphen"/>ready nominated, and whether that power should be committed onely to one or more and upon a Message, there was a Conference concer<g ref="char:EOLhyphen"/>ning it, but not concluded of.</p>
+            <p>Then was there a Catalogue of the Officers names which are to have command of those for<g ref="char:EOLhyphen"/>ces to be set out by the City, presented to each
+<pb facs="tcp:197815:3"/>House by the London Committee, and after some consultation thereabout, a Committee of both Houses was appointed to meet on <hi>Thurs<g ref="char:EOLhyphen"/>day</hi> following in the afternoon, further to de<g ref="char:EOLhyphen"/>termine of it. This afternoon the Committe of both Houses sate concerning the Remonstrance or Answer to his Majesties Declaration, touch<g ref="char:EOLhyphen"/>ing the <hi>Militia,</hi> and having concluded thereon, agreed to present the same to both Houses the next day after Evening Sermon, when both Houses had appointed to meet.</p>
+            <p>Of the House of Commons sate the Commit<g ref="char:EOLhyphen"/>tee touching the Parishioners of <hi>Muyleswick,</hi> where some witnesses were examined, and or<g ref="char:EOLhyphen"/>dered others to be brought in and examined touching that businesse.</p>
+            <p>The 26. of the House of Commons sate the Committee touching Collonel <hi>Huncks</hi> businesse, where divers other witnesses were examined.</p>
+            <p>The Committee also touching the Re-edifica<g ref="char:EOLhyphen"/>tion of St. <hi>Gregories</hi> Church by <hi>Pauls,</hi> also a Committee touching the Soap businesse, and the delinquents therein.</p>
+            <p>This Evening came Letters from <hi>Hull,</hi> which made relation of the discovery of a plot which was laid for the delivery of that Town into his
+<pb facs="tcp:197815:4"/>Majesties hand, and that the chief Actors there<g ref="char:EOLhyphen"/>in were in hold, and it was prayed the Houses pleasure might be known what further should be done therein, which was referred the next morning to consider of.</p>
+            <p>The 27. in the morning, upon the meeting of both Houses, those Letters were read again at a Conference, which came the night before from <hi>Hull,</hi> and after some debate therein, it was joint<g ref="char:EOLhyphen"/>ly ordered, that those parties that would have betrayed <hi>Hull</hi> should be forthwith sent for, to answer it before the House, and thanks should be returned to Sir <hi>John Hotham</hi> for his great care therein.</p>
+            <p>The House of Commons then took into con<g ref="char:EOLhyphen"/>sideration the charge they had lately carried up to the Lords against Mr. Recorder of <hi>London,</hi> and after some debate thereupon, they sent a Message to the Lords, desiring Mr. Recorder might be called speedily to triall which the Lords took some time to consider of.</p>
+            <p>Then was presented to both Houses the Re<g ref="char:EOLhyphen"/>solutions of the Scottish Commissioners touch<g ref="char:EOLhyphen"/>ing a mediation to be made between his Maje<g ref="char:EOLhyphen"/>stie and the Parliament, which took up some time in debate thereof.</p>
+            <pb facs="tcp:197815:4"/>
+            <p>This afternoon the Committee met againe touching the Election of the <hi>Irish</hi> Officers, where some were fully agreed upon, and the rest referred till the next day to conclude of.</p>
+            <p>A Committee of the House of Commons like<g ref="char:EOLhyphen"/>wise sate, touching the pay convenient to be al<g ref="char:EOLhyphen"/>lowed the said Officers, and for the speedy rai<g ref="char:EOLhyphen"/>sing of moneys for the urgent affairs of the State. The Committee also touching the Wine Businesse sate, where Councell was heard both of the Pattentees and of the Yeomanry oppo<g ref="char:EOLhyphen"/>sers, touching the mittigation of their Fines, but it was not determined.</p>
+            <p>Also the Committee touching the Fines of Recusants and other Delinquents to draw them to a head.</p>
+            <p>The 28. in the morning, the Lords House being met, they fell again upon the Lord St. <hi>John</hi> and Mr. <hi>Bymions</hi> cause, where Counsel was heard on both sides, and divers Witnesses exa<g ref="char:EOLhyphen"/>mined concerning.</p>
+            <p>The House of Commons then took into con<g ref="char:EOLhyphen"/>sideration the malignant party of the Kingdom, as likewise the Lord Keeper, and those other Lords who had lately absented themselves from Parliament, and gone to his Majesty without
+<pb facs="tcp:197815:5"/>leave, which was a great interruption to their proceedings, and upon a Message to the Lords there was a Conference, where it was moved that Orders might issue for their againe warning to attend the Parliament, and if that they did not upon their second Summons, some further Or<g ref="char:EOLhyphen"/>der might be taken therein, which was assented to, was done accordingly.</p>
+            <p>And in the afternoone the Committee of the House of Commons sate for the disposall of the distribution mony for <hi>Ireland,</hi> where some were reteined according to their necessities till fur<g ref="char:EOLhyphen"/>ther course could be taken therein. Then the Committee of both Houses sate again about the Election of Officers, and fully determined ther<g ref="char:EOLhyphen"/>in, and a certaine day was appointed for their entrance into pay.</p>
+            <p>Also a Committee sate touching the Magi<g ref="char:EOLhyphen"/>strates and Townesmen of <hi>New-castle,</hi> and fur<g ref="char:EOLhyphen"/>ther examination being taken therin, the day being spent, referred the same untill another time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
